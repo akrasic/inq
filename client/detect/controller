@@ -17,7 +17,7 @@ einarc_detect()
 			'amcc') CTRL_VENDOR='3Ware/AMCC';;
 			'areca') CTRL_VENDOR='Areca';;
 			'lsi_megarc') CTRL_VENDOR='LSI';;
-			'lsi_megcli') CTRL_VENDOR='LSI';;
+			'lsi_megacli') CTRL_VENDOR='LSI';;
 			'adaptec_aaccli') CTRL_VENDOR='Adaptec';;
 			'adaptec_arcconf') CTRL_VENDOR='Adaptec';;
 			'software') CTRL_VENDOR='mdadm';;
